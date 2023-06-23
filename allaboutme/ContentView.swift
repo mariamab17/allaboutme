@@ -10,7 +10,7 @@ struct ContentView: View {
  @State private var firstName = "Mariama"
     @State private var birthPlace = "Bronx, New York"
      var name = "First, lets start with my name, Mariama..."
-     var textTitle = "Hello, Welcome to my All about me"
+     var textTitle = "Hello, Welcome to my All about me!"
     var body: some View {
     
         VStack {
